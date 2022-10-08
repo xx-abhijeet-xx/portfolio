@@ -1,3 +1,5 @@
+// const { default: gsap } = require("gsap");
+
 function init(){
     gsap.registerPlugin(ScrollTrigger);
 
